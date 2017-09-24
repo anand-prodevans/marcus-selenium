@@ -20,7 +20,7 @@ public class TestRun {
 		driver = Dlib.openBrowser("chrome");
 		lib = new LibraryForGenericFunction(driver);
 		// Application link will be opened
-		driver.get("http://localhost:8081/marcus/");
+		driver.get("http://marcus.oneeight.co.in/");
 	}
 	
 	@Test(priority = 1, description="Tries to navigate to About US Page (passes)")
