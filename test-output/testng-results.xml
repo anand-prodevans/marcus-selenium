@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="115257" started-at="2017-09-24T14:16:40Z" finished-at="2017-09-24T14:18:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="115257" started-at="2017-09-24T14:16:40Z" finished-at="2017-09-24T14:18:35Z">
+      <class name="com.pack.home.TestExecution.TestRun">
+        <test-method status="PASS" signature="executing()[pri:0, instance:com.pack.home.TestExecution.TestRun@1bce4f0a]" name="executing" is-config="true" duration-ms="25333" started-at="2017-09-24T19:46:40Z" finished-at="2017-09-24T19:47:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executing -->
+        <test-method status="PASS" signature="Aboutlink()[pri:0, instance:com.pack.home.TestExecution.TestRun@1bce4f0a]" name="Aboutlink" duration-ms="5820" started-at="2017-09-24T19:47:05Z" description="Tries to navigate to About US Page (passes)" finished-at="2017-09-24T19:47:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Aboutlink -->
+        <test-method status="PASS" signature="Planslink()[pri:0, instance:com.pack.home.TestExecution.TestRun@1bce4f0a]" name="Planslink" duration-ms="5520" started-at="2017-09-24T19:47:11Z" description="Tries to navigate to Plans Page (passes)" finished-at="2017-09-24T19:47:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Planslink -->
+        <test-method status="PASS" signature="Paybilllink()[pri:0, instance:com.pack.home.TestExecution.TestRun@1bce4f0a]" name="Paybilllink" duration-ms="5439" started-at="2017-09-24T19:47:17Z" description="Tries to navigate to Pay Bill Page (passes)" finished-at="2017-09-24T19:47:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Paybilllink -->
+        <test-method status="PASS" signature="CUlink()[pri:0, instance:com.pack.home.TestExecution.TestRun@1bce4f0a]" name="CUlink" duration-ms="7207" started-at="2017-09-24T19:47:22Z" description="Tries to navigate to Contact US Page (passes)" finished-at="2017-09-24T19:47:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CUlink -->
+        <test-method status="PASS" signature="sendlink()[pri:0, instance:com.pack.home.TestExecution.TestRun@1bce4f0a]" name="sendlink" duration-ms="16964" started-at="2017-09-24T19:47:29Z" description="Perform Send Mail for Contact US  (passes)" finished-at="2017-09-24T19:47:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendlink -->
+        <test-method status="PASS" signature="NClink()[pri:0, instance:com.pack.home.TestExecution.TestRun@1bce4f0a]" name="NClink" duration-ms="5574" started-at="2017-09-24T19:47:46Z" description="Tries to navigate to New Connection Page (passes)" finished-at="2017-09-24T19:47:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NClink -->
+        <test-method status="PASS" signature="Nconlink()[pri:0, instance:com.pack.home.TestExecution.TestRun@1bce4f0a]" name="Nconlink" duration-ms="13991" started-at="2017-09-24T19:47:52Z" description="Perform Send Mail for New Connection (passes)" finished-at="2017-09-24T19:48:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Nconlink -->
+        <test-method status="PASS" signature="clickPrivacy()[pri:0, instance:com.pack.home.TestExecution.TestRun@1bce4f0a]" name="clickPrivacy" duration-ms="5914" started-at="2017-09-24T19:48:06Z" description="Tries to navigate to privacy (passes)" finished-at="2017-09-24T19:48:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickPrivacy -->
+        <test-method status="PASS" signature="clickTerms()[pri:0, instance:com.pack.home.TestExecution.TestRun@1bce4f0a]" name="clickTerms" duration-ms="9899" started-at="2017-09-24T19:48:12Z" description="Tries to navigate to Terms And Condition (passes)" finished-at="2017-09-24T19:48:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickTerms -->
+        <test-method status="PASS" signature="clickRefund()[pri:0, instance:com.pack.home.TestExecution.TestRun@1bce4f0a]" name="clickRefund" duration-ms="5400" started-at="2017-09-24T19:48:22Z" description="Tries to navigate to Refund page (passes)" finished-at="2017-09-24T19:48:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickRefund -->
+        <test-method status="PASS" signature="clickfaq()[pri:0, instance:com.pack.home.TestExecution.TestRun@1bce4f0a]" name="clickfaq" duration-ms="5330" started-at="2017-09-24T19:48:27Z" description="Tries to navigate to FAQ (passes)" finished-at="2017-09-24T19:48:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickfaq -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.pack.home.TestExecution.TestRun@1bce4f0a]" name="afterMethod" is-config="true" duration-ms="2716" started-at="2017-09-24T19:48:32Z" finished-at="2017-09-24T19:48:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.pack.home.TestExecution.TestRun -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
